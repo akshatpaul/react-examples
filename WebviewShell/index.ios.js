@@ -1,6 +1,6 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * React Native Webview Shell
+ * Author : Akshat Paul
  */
 'use strict';
 
