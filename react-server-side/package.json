@@ -1,0 +1,15 @@
+{
+  "name": "react-server-side",
+  "version": "1.0.0",
+  "description": "React server side example",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshat Paul",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "react": "^0.13.3"
+  }
+}
