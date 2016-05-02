@@ -10,3 +10,7 @@ This example helps you create a shell to load any url in webview with React nati
 
 ## 3. ToDo app with Reflux & react native ##
 reflux is gaining lot of traction in react js world as an alternate to flux pattern. In this example we have used Reflux with React native to create a todo application.
+
+## License
+
+MIT License. Copyright 2015 Akshat Paul. 
